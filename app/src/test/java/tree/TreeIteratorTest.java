@@ -2,9 +2,10 @@ package tree;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+import org.junit.jupiter.api.Test;
+
 import java.util.Iterator;
 import java.util.NoSuchElementException;
-import org.junit.jupiter.api.Test;
 
 /** Testing the {@link TreeIterator} class. */
 public class TreeIteratorTest {

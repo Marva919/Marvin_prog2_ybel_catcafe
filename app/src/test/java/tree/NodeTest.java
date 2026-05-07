@@ -2,10 +2,11 @@ package tree;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+import org.junit.jupiter.api.Test;
+
 import java.util.Iterator;
 import java.util.Spliterator;
 import java.util.stream.Collectors;
-import org.junit.jupiter.api.Test;
 
 /** Testing the {@link Node} class. */
 public class NodeTest {
